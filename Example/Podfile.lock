@@ -1,0 +1,16 @@
+PODS:
+  - module_header_source_a (0.1.0)
+
+DEPENDENCIES:
+  - module_header_source_a (from `../`)
+
+EXTERNAL SOURCES:
+  module_header_source_a:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  module_header_source_a: cb92a23a11d664a40607b513294421c7fa46f35e
+
+PODFILE CHECKSUM: 94a1b9d553bd78157b7f3576fda8e0aa9c19ca25
+
+COCOAPODS: 1.6.1

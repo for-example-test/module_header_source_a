@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'tripleCC' => 'triplec.linux@gmail.com' }
-  s.source           = { :git => 'https://github.com/tripleCC/module_header_source_a.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/for-example-test/module_header_source_a.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
